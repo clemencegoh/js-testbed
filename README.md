@@ -1,3 +1,7 @@
+# JS Testbed
+Testbed for all projects and experiments with js
+
+
 # New Project
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
