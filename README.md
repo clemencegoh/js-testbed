@@ -1,16 +1,6 @@
 # JS Testbed
 Testbed for all projects and experiments with js
 
-
-## Features
-1. General React App with snowpack
-2. React Routing
-
-
-## TODO
-
-
-
 # New Project
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
