@@ -13,7 +13,11 @@
 - SSR (Svelt)
 - Progressive Web Apps >> offline content
   - Service Workers
-- WebAssembly
+- WebAssembly (wasm)
+- Rust
 - MediaQuery, for all screen sizes
   - Theory of design
+- Tensorflow JS/ Machine Learning on frontend with or without webassembly
+- WebGL
 - NW.js (not the NWJS virus, but is used to compile into desktop apps)
+- Severless APIs
