@@ -21,3 +21,6 @@
 - WebGL
 - NW.js (not the NWJS virus, but is used to compile into desktop apps)
 - Severless APIs
+
+- AI (GPT-3, Autoregressive language models to produce human-like text)
+  - OpenAI
