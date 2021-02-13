@@ -3,6 +3,8 @@
 ## Existing Features
 1. Basic Routing
 2. snowpack instead of webpack
+3. Styling
+  - Styling with classnames
 
 ## To Learn/do
 - All react hooks
